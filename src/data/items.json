@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 20.99,
+    "imgUrl": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498_960_720.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Book",
+    "price": 20.99,
+    "imgUrl": "https://cdn.pixabay.com/photo/2016/09/10/17/18/book-1659717_960_720.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Book",
+    "price": 20.99,
+    "imgUrl": "https://cdn.pixabay.com/photo/2015/12/19/20/32/paper-1100254_960_720.jpg"
+  }
+]
