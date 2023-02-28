@@ -6,7 +6,7 @@ import StoreItem from "../component/StoreItem";
 const Store = () => {
   return (
     <>
-      <Row md={2} lg={3} className="g-3">
+      <Row xs={2} sm={3} md={4} lg={4} xl={5} className="g-3">
         {storeItems.map((item) => (
           <Col key={item.id}>
             <StoreItem {...item} />
